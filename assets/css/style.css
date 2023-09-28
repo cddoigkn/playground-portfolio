@@ -62,6 +62,14 @@ section p {
   font-family: 'Times New Roman', Times, serif;
   font-size: 1rem;
 }
+/* added version 2 */
+footer {
+  padding: 20px;
+  display: flex;
+  font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+  justify-content: center;
+  align-items: center;
+}
 
 @media screen and (max-width: 768px) {
   nav ul li {
